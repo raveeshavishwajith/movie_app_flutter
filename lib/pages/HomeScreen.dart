@@ -12,30 +12,31 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.black,
-      body: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 40, vertical: 20),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              "Search Bar",
-              style: TextStyle(
-                color: Colors.white,
-                fontSize: 25,
-              ),
-            ),
-            SizedBox(
-              height: 50,
-            ),
-            Text(
-              "Now Playing",
-              style: TextStyle(
+      body: SafeArea(
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 40, vertical: 20),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                "Search Bar",
+                style: TextStyle(
                   color: Colors.white,
                   fontSize: 25,
-                  fontWeight: FontWeight.bold),
-            ),
-            
-          ],
+                ),
+              ),
+              SizedBox(
+                height: 50,
+              ),
+              Text(
+                "Now Playing",
+                style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 25,
+                    fontWeight: FontWeight.bold),
+              ),
+            ],
+          ),
         ),
       ),
     );
