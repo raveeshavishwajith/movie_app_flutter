@@ -1,0 +1,12 @@
+com.example.movie_app_flutter.app-jetified-window-java-1.0.0-beta04-0 C:\Users\rvish\scoop\apps\gradle\current\.gradle\caches\transforms-3\0b40b0d78cbc34dac17274556ada5199\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.movie_app_flutter.app-jetified-window-1.0.0-beta04-1 C:\Users\rvish\scoop\apps\gradle\current\.gradle\caches\transforms-3\39b2858e0c749a55dcde1d5d3358180d\transformed\jetified-window-1.0.0-beta04\res
+com.example.movie_app_flutter.app-jetified-annotation-experimental-1.1.0-2 C:\Users\rvish\scoop\apps\gradle\current\.gradle\caches\transforms-3\4f00c308e88c1ece9e7fbca5a7eb8935\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.movie_app_flutter.app-core-1.6.0-3 C:\Users\rvish\scoop\apps\gradle\current\.gradle\caches\transforms-3\f7f731a43adbbd4d97cc8e4804631e21\transformed\core-1.6.0\res
+com.example.movie_app_flutter.app-debug-4 D:\GitHub\Movie_App_Flutter\android\app\src\debug\res
+com.example.movie_app_flutter.app-main-5 D:\GitHub\Movie_App_Flutter\android\app\src\main\res
+com.example.movie_app_flutter.app-pngs-6 D:\GitHub\Movie_App_Flutter\build\app\generated\res\pngs\debug
+com.example.movie_app_flutter.app-resValues-7 D:\GitHub\Movie_App_Flutter\build\app\generated\res\resValues\debug
+com.example.movie_app_flutter.app-rs-8 D:\GitHub\Movie_App_Flutter\build\app\generated\res\rs\debug
+com.example.movie_app_flutter.app-mergeDebugResources-9 D:\GitHub\Movie_App_Flutter\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.movie_app_flutter.app-mergeDebugResources-10 D:\GitHub\Movie_App_Flutter\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.movie_app_flutter.app-merged_res-11 D:\GitHub\Movie_App_Flutter\build\app\intermediates\merged_res\debug

@@ -17,6 +17,9 @@ class _HomeScreenState extends State<HomeScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
+            SizedBox(
+              height: 40,
+            ),
             Text(
               "Search Bar",
               style: TextStyle(
@@ -34,7 +37,6 @@ class _HomeScreenState extends State<HomeScreen> {
                   fontSize: 25,
                   fontWeight: FontWeight.bold),
             ),
-            
           ],
         ),
       ),
