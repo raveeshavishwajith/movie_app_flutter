@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		dOPFO5hrb91OSO1dZq8dIhNk5pU=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		ZXDhzpXfFOLiu8ZND+h6hHvqkQg=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -22,7 +22,27 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		k5ihRCIZO6TSJI5qzrRgLqsx67A=
+		iox2LgROXIqgGgDQGukq5H0ZnpA=
+		</data>
+		<key>flutter_assets/assets/coverimages/Demon%20Slayer-%20Kimetsu%20no%20Yaiba.jpeg</key>
+		<data>
+		zm+Sto9KbL+zg8XjlpnY+XlaLts=
+		</data>
+		<key>flutter_assets/assets/coverimages/Despicable%20Me%204.jpeg</key>
+		<data>
+		rWTzrhoxioQHYsxXr7YoBpjafJM=
+		</data>
+		<key>flutter_assets/assets/coverimages/House%20of%20the%20Dragon.jpeg</key>
+		<data>
+		sCGH8aChjGVpa6AUAzkQ8A1mjgg=
+		</data>
+		<key>flutter_assets/assets/coverimages/Inside%20Out%202.jpeg</key>
+		<data>
+		UYrgdUFYs2SeTtAVy7g6eWyvwjc=
+		</data>
+		<key>flutter_assets/assets/coverimages/iADOJ8Zymht2JPMoy3R7xceZprc.jpg</key>
+		<data>
+		ItHxzjT2dqK+cx36hYW1wRKEkpo=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -34,7 +54,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		xAdBJav91A3WjtmsiV0q55nziHs=
+		evLFqjJrLlI1+cwvWnn2oIXTXo4=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -55,14 +75,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			2M0CH8EZdepXoRc0fX15nN15Jsjz6PcXo6LFf63EETU=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			Sm9QJPb/ZrCfiNA1cinpIoETvCeKdzW6YLL3MCUtLzA=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -76,7 +96,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vyKfuiU558Pd1yvLLEbDj/0GThpElTUD8y9XKrFPWa4=
+			RDTQTkkxXTgLVkUy/PUxvGxQJDahKYd04EK7DDuhzYE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/coverimages/Demon%20Slayer-%20Kimetsu%20no%20Yaiba.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GgSF3wsNyyPTecHRQmOjXBBnrXSy/InKsB+mSCpgqZg=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/coverimages/Despicable%20Me%204.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ur8rWQUessqKy/8OrGwmEKmc2fpiUcjgljLENUeeEPw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/coverimages/House%20of%20the%20Dragon.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mzLghGU7zs1EcBncPmw40OQ20SovUeSqPQvEHo8EkYs=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/coverimages/Inside%20Out%202.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Hx9wJVdi3avOJuWzGLnzGCcsXVWHiyHFpwZD/kebTpc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/coverimages/iADOJ8Zymht2JPMoy3R7xceZprc.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Iq6S7gEEsg5yNoMiimlPcYR6wRXSJHkmo0DC1z2/NBs=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -97,7 +152,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FjX2P3FbHKT+yWGJ/94BvrJEcHJfVO4l1sHCM4N+fCc=
+			GaT+j7VL2iIIMbfL7QOKurK35uK8lvScM8Cjaw6cgxA=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
